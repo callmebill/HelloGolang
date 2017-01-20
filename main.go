@@ -28,7 +28,7 @@ func cal(problem, opertion string) int {
 	return 0
 }
 
-/* handle    a simple get request */
+/* handle    a    simple get request */
 func SimpleServer(w http.ResponseWriter, request *http.Request) {
 	path := request.URL.Path[1:]
 	var result = 0
