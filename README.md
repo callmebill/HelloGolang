@@ -1,2 +1,2 @@
 # HelloGolang
-第一个后台的Demo
+第一个后台的Demo.HelloGolang
